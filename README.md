@@ -55,7 +55,7 @@ Return for `data3` in `/api/index.ts` should look like this:
 
 1. Correct implementation of API endpoints with proper request handling and response formatting.
 2. Proper usage of TypeScript and adherence to coding best practices.
-4. Complexity of your code and execution/response time.
+3. Complexity of your code and execution/response time.
 
 ## Additional Notes:
 

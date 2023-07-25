@@ -1,3 +1,3 @@
-1. Endpoint - 5h
+1. Endpoint - 4h/5h
 
-2. Unique string - 3h
+2. Unique string - 4h/3h
